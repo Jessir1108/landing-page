@@ -15,7 +15,7 @@ export default function PoliticasPrivacidad() {
 
       <section className="space-y-4">
         <h2 className="text-2xl font-semibold text-[#00C7B1]">
-          ENTIDAD PARA LA INCLUSIÓN Y LA BANCARIZACIÓN BECOME DIGITAL.
+          BECOME DIGITAL.
         </h2>
         <p>
           Por el hecho de ingresar a la Página Web de BECOME DIGITAL, entendemos
